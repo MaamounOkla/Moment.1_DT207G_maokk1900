@@ -3,10 +3,11 @@
 ### Av Maamoun Okla
 
 En enkel Node.js-applikation som hanterar kurser i ett CV med **Express**, **EJS** och **SQLite3**.
-
+ 
 ---
 ## Länk 
-Demowebbplats för testkörning:  [Dina Kurser]([https://moment2-dt207g-maok1900.netlify.app/](https://moment-1-dt207g-maokk1900.onrender.com)). 
+Demowebbplats för testkörning:  [Dina Kurser](https://moment-1-dt207g-maokk1900.onrender.com). 
+
 ##  Funktioner
 
 * Visa alla kurser (`/`)
