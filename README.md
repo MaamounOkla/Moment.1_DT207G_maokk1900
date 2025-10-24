@@ -5,8 +5,9 @@
 En enkel Node.js-applikation som hanterar kurser i ett CV med **Express**, **EJS** och **SQLite3**.
 
 ---
-
-## 🧩 Funktioner
+## Länk 
+Demowebbplats för testkörning:  [Dina Kurser]([https://moment2-dt207g-maok1900.netlify.app/](https://moment-1-dt207g-maokk1900.onrender.com)). 
+##  Funktioner
 
 * Visa alla kurser (`/`)
 * Lägg till ny kurs (`/addCourse`)
@@ -15,7 +16,7 @@ En enkel Node.js-applikation som hanterar kurser i ett CV med **Express**, **EJS
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. Klona projektet
 2. Kör
@@ -29,7 +30,7 @@ En enkel Node.js-applikation som hanterar kurser i ett CV med **Express**, **EJS
 
 ---
 
-## 💾 Databas
+##  Databas
 
 Tabell: `courses`
 
@@ -44,7 +45,7 @@ Tabell: `courses`
 
 ---
 
-## 📁 Struktur
+##  Struktur
 
 ```
 server.js
@@ -54,15 +55,6 @@ public/
 db/cv.db
 ```
 
----
 
-## 🧠 Kort info
-
-* View engine: **EJS**
-* Statiska filer i `/public`
-* Data lagras lokalt i `SQLite`
-* Startport: **3001**
-
----
 
 📅 Senast uppdaterad: 2025-10-23
